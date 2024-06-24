@@ -1,0 +1,11 @@
+.Navbar{
+ width: 100%;
+ height: 3rem;
+ background: #da5555;
+
+}
+.logo{
+font-size:large;
+height: 100%;
+padding: 10px;
+}
